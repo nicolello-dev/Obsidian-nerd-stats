@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-nerd-stats",
 	"name": "Obsidian Nerd Stats",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Adds statistics about your machine in the status bar",
 	"author": "Nicola Migone",
