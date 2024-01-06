@@ -1,7 +1,7 @@
 {
 	"id": "nerd-stats",
 	"name": "Nerd Stats",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Adds statistics about your machine in the status bar",
 	"author": "Nicola Migone",
