@@ -7,9 +7,7 @@ on:
 
 jobs:
     build:
-        permissions:
-            packages: write
-            workflows: write
+        permissions: write-all
 
         runs-on: ubuntu-latest
 
