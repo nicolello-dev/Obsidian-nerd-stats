@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-nerd-stats",
+	"name": "Obsidian Nerd Stats",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "Adds statistics about your machine in the status bar",
+	"author": "Nicola Migone",
+	"authorUrl": "https://nicolello.dev",
+	"fundingUrl": "https://nicolello.dev",
+	"isDesktopOnly": true
 }
