@@ -1,8 +1,5 @@
 name: Release Obsidian plugin
 
-permissions:
-    packages: write
-
 on:
     push:
         tags:
@@ -10,6 +7,9 @@ on:
 
 jobs:
     build:
+        permissions:
+            packages: write
+
         runs-on: ubuntu-latest
 
         steps:
