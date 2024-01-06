@@ -9,6 +9,7 @@ jobs:
     build:
         permissions:
             packages: write
+            workflows: write
 
         runs-on: ubuntu-latest
 
